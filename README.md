@@ -4,4 +4,4 @@
 
 # Jeremy way
 
-![Run on Repl.it](https://repl.it/badge/github/jeff-burke/replit-test)
+![Run on Repl.it](https://replit.com/new/github/jeff-burke/replit-test)
